@@ -13,4 +13,6 @@ As it is a basic website , there is no demo to the project
 No login required.
 
 ## Outside code
-* No Outside code is used to make the Website
+* Bootstrap Used - http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js
+* JQuery - https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+* W3Schools for Bootstrap Usage - http://www.w3schools.com/bootstrap/bootstrap_tables.asp
